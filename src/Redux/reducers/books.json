@@ -1,0 +1,18 @@
+[
+    {
+        "isbn": "1",
+        "title" : "Ana",
+        "subtitle" : "Maksim Gorki",
+        "author" :"Yunus Emre Konyar",
+        "pages" : 155,
+        "description" : "Bir annenin hikayesi"
+    },
+    {
+        "isbn": "2",
+        "title" : "Şeker Portakalı",
+        "subtitle" : "Jose Mauro De Vasconcelos",
+        "author" :"Yunus Emre Konyar",
+        "pages" : 147,
+        "description" : "Hello Redux"
+    }
+]
